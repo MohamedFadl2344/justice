@@ -62,7 +62,7 @@ export const useLanguageStore = create<LanguageStore>()(
         (set, get) => ({
             currentLanguage: 'ar',
             translations: {},
-            isLoading: false,
+            isLoading: true, // Start with loading state
 
             setLanguage: async (language: Language) => {
                 set({ isLoading: true });
@@ -108,7 +108,7 @@ export const useLanguageStore = create<LanguageStore>()(
                     translations.navbar = navbar.default;
                     translations.footer = footer.default;
 
-                    set({ translations });
+                    set({ translations, isLoading: false });
                 } catch (error) {
                     console.error(`Failed to load translations for ${language}:`, error);
                     set({ isLoading: false });
@@ -118,6 +118,18 @@ export const useLanguageStore = create<LanguageStore>()(
         {
             name: 'language-storage',
             partialize: (state) => ({ currentLanguage: state.currentLanguage }),
+            onRehydrateStorage: () => (state) => {
+                // Auto-load translations after rehydration
+                if (state) {
+                    const config = languages[state.currentLanguage];
+                    document.documentElement.dir = config.dir;
+                    document.documentElement.lang = state.currentLanguage;
+                    document.body.dir = config.dir;
+
+                    // Load translations immediately
+                    state.loadTranslations(state.currentLanguage);
+                }
+            },
         }
     )
 );
