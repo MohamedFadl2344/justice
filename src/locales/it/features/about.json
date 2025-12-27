@@ -1,0 +1,28 @@
+{
+    "badge": "Perché Scegliere il Nostro Studio",
+    "title": {
+        "main": "Impegno per l'Affidabilità",
+        "highlight": "e Risultati Garantiti"
+    },
+    "description": "Crediamo che ogni caso porti dimensioni uniche, e pertanto aderiamo ai più alti standard di professionalità e riservatezza per garantire i diritti dei nostri clienti. Il nostro team è composto da avvocati specializzati d'élite che possiedono conoscenze accademiche ed esperienza pratica.",
+    "founder": {
+        "name": "Consulente Ahmed Ali",
+        "title": "Esperto di Diritto Internazionale - 25 Anni di Esperienza",
+        "badge": "Fondatore"
+    },
+    "commitments": {
+        "expertise": {
+            "title": "Competenza Affidabile",
+            "description": "Un comprovato track record di successo nei casi locali e internazionali più complessi con un tasso di successo che parla da sé"
+        },
+        "support": {
+            "title": "Supporto Continuo",
+            "description": "Il nostro team è disponibile per voi 24 ore su 24, 7 giorni su 7 per consultazioni e per seguire i vostri casi con precisione per garantire la vostra tranquillità"
+        },
+        "results": {
+            "title": "Risultati Tangibili",
+            "description": "Ci concentriamo su strategie legali efficaci per ottenere i migliori risultati possibili per i nostri clienti nel più breve tempo possibile"
+        }
+    },
+    "keywords": "studio legale affidabile, avvocato esperto, consulenze legali specializzate, servizi legali professionali, risultati legali garantiti"
+}

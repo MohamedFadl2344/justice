@@ -1,0 +1,45 @@
+{
+    "about": {
+        "title": "Studio Legale Justice",
+        "description": "Forniamo servizi legali distinti con alta competenza e professionalità per proteggere i vostri diritti e realizzare la giustizia. Ci impegniamo ai più alti standard di professionalità e completa riservatezza nella gestione dei vostri casi."
+    },
+    "quickLinks": {
+        "title": "Link Rapidi",
+        "links": [
+            {
+                "id": "home",
+                "label": "Home"
+            },
+            {
+                "id": "about",
+                "label": "Chi Siamo"
+            },
+            {
+                "id": "services",
+                "label": "I Nostri Servizi"
+            },
+            {
+                "id": "contact",
+                "label": "Contattaci"
+            }
+        ]
+    },
+    "services": {
+        "title": "Servizi Legali",
+        "items": [
+            "Diritto Penale",
+            "Arbitrato Internazionale",
+            "Casi Civili",
+            "Consulenze Legali"
+        ]
+    },
+    "social": {
+        "title": "Seguici"
+    },
+    "bottom": {
+        "copyright": "Tutti i diritti riservati allo Studio Legale Justice e Consulenze Legali",
+        "privacy": "Politica sulla Privacy",
+        "terms": "Termini e Condizioni"
+    },
+    "keywords": "studio legale, servizi legali, avvocato specializzato, consulenze legali"
+}

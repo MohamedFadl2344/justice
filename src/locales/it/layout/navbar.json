@@ -1,0 +1,36 @@
+{
+    "logo": {
+        "title": "Justice",
+        "subtitle": "Studio Legale"
+    },
+    "links": [
+        {
+            "id": "home",
+            "label": "Home",
+            "href": "#home"
+        },
+        {
+            "id": "about",
+            "label": "Chi Siamo",
+            "href": "#about"
+        },
+        {
+            "id": "services",
+            "label": "I Nostri Servizi",
+            "href": "#services"
+        },
+        {
+            "id": "team",
+            "label": "Il Nostro Team",
+            "href": "#team"
+        },
+        {
+            "id": "contact",
+            "label": "Contattaci",
+            "href": "#contact"
+        }
+    ],
+    "cta": "Prenota Consultazione",
+    "menu": "Menu",
+    "keywords": "studio legale, avvocato, consulenza legale, servizi legali"
+}

@@ -1,0 +1,78 @@
+{
+    "badge": "Kontaktieren Sie uns",
+    "title": "Wir sind hier, um Ihnen zu helfen",
+    "form": {
+        "title": "Senden Sie uns eine Nachricht",
+        "subtitle": "Kontaktieren Sie uns jetzt",
+        "fields": {
+            "firstName": {
+                "label": "Vorname",
+                "placeholder": "Geben Sie Ihren Vornamen ein"
+            },
+            "lastName": {
+                "label": "Nachname",
+                "placeholder": "Geben Sie Ihren Nachnamen ein"
+            },
+            "email": {
+                "label": "E-Mail-Adresse",
+                "placeholder": "beispiel@domain.com"
+            },
+            "caseType": {
+                "label": "Falltyp",
+                "placeholder": "Falltyp auswählen"
+            },
+            "message": {
+                "label": "Nachricht",
+                "placeholder": "Bitte geben Sie kurze Details zu Ihrem Fall an..."
+            }
+        },
+        "caseTypes": [
+            {
+                "value": "",
+                "label": "Falltyp auswählen"
+            },
+            {
+                "value": "general",
+                "label": "Allgemeine Beratung"
+            },
+            {
+                "value": "criminal",
+                "label": "Strafsachen"
+            },
+            {
+                "value": "civil",
+                "label": "Zivilsachen"
+            },
+            {
+                "value": "commercial",
+                "label": "Handelssachen"
+            },
+            {
+                "value": "family",
+                "label": "Familiensachen"
+            },
+            {
+                "value": "labor",
+                "label": "Arbeitssachen"
+            }
+        ],
+        "submit": "Anfrage jetzt senden"
+    },
+    "info": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Wir sind rund um die Uhr für Sie da. Kontaktieren Sie uns für Beratungen und zur Identifizierung Ihrer rechtlichen Bedürfnisse, oder erreichen Sie uns über die folgenden Mittel, und wir werden vollständig bereit sein zu antworten",
+        "address": {
+            "title": "Hauptadresse",
+            "value": "Tahrir Straße, Kairo, Ägypten"
+        },
+        "phone": {
+            "title": "Kontaktnummern",
+            "value": "+966 (123) 456-0000"
+        },
+        "email": {
+            "title": "E-Mail-Adresse",
+            "value": "info@justice-law.com"
+        }
+    },
+    "keywords": "kontaktieren Sie uns, Rechtsberatung, Standort der Anwaltskanzlei, Büroadresse, Telefonnummer"
+}

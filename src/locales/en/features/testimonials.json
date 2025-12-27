@@ -1,0 +1,29 @@
+{
+    "badge": "Client Testimonials",
+    "title": {
+        "main": "What Our",
+        "highlight": "Clients Say"
+    },
+    "subtitle": "We take pride in our clients' trust and always strive to exceed their expectations by providing exceptional legal services",
+    "items": [
+        {
+            "name": "Mohammed Salem",
+            "role": "Civil President",
+            "content": "Excellent service and very high quality. The team at Al-Adala Law Firm was able to resolve my case in record time with tangible results. I highly recommend them to anyone looking for a reliable lawyer.",
+            "rating": 5
+        },
+        {
+            "name": "Sara Al-Masri",
+            "role": "Company Director",
+            "content": "Their expertise in international law is unmatched. I dealt with them on a complex investment case and they were extremely professional. An outstanding team in all the legal areas they provide.",
+            "rating": 5
+        },
+        {
+            "name": "Khaled Youssef",
+            "role": "Businessman",
+            "content": "The best law firm I've dealt with. The consultation and follow-up from the beginning were excellent. The professional team was able to solve the legal problem I faced with ease. Thank you for your efforts.",
+            "rating": 5
+        }
+    ],
+    "keywords": "client reviews, law firm ratings, client testimonials, trusted lawyer, excellent legal services"
+}

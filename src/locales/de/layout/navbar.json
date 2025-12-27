@@ -1,0 +1,36 @@
+{
+    "logo": {
+        "title": "Justice",
+        "subtitle": "Anwaltskanzlei"
+    },
+    "links": [
+        {
+            "id": "home",
+            "label": "Startseite",
+            "href": "#home"
+        },
+        {
+            "id": "about",
+            "label": "Über uns",
+            "href": "#about"
+        },
+        {
+            "id": "services",
+            "label": "Unsere Dienstleistungen",
+            "href": "#services"
+        },
+        {
+            "id": "team",
+            "label": "Unser Team",
+            "href": "#team"
+        },
+        {
+            "id": "contact",
+            "label": "Kontakt",
+            "href": "#contact"
+        }
+    ],
+    "cta": "Beratung buchen",
+    "menu": "Menü",
+    "keywords": "Anwaltskanzlei, Rechtsanwalt, Rechtsberatung, Rechtsdienstleistungen"
+}

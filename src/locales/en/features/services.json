@@ -1,0 +1,48 @@
+{
+    "badge": "Comprehensive Legal Services",
+    "title": {
+        "main": "Comprehensive",
+        "highlight": "Legal Services"
+    },
+    "subtitle": "We offer a comprehensive range of specialized legal services to meet your legal needs with the highest standards of quality and professionalism",
+    "viewAll": "View All Consultations",
+    "items": {
+        "criminal": {
+            "title": "Criminal Cases",
+            "features": [
+                "Defense in criminal cases",
+                "Representation before courts",
+                "Criminal consultations",
+                "Preparation of legal briefs"
+            ]
+        },
+        "corporate": {
+            "title": "Corporate Law",
+            "features": [
+                "Company and business formation",
+                "Drafting commercial contracts",
+                "Resolving commercial disputes",
+                "Legal consultations"
+            ]
+        },
+        "arbitration": {
+            "title": "International Arbitration",
+            "features": [
+                "International commercial arbitration",
+                "Party representation in arbitration",
+                "Enforcement of arbitration awards",
+                "Dispute mediation"
+            ]
+        },
+        "consulting": {
+            "title": "Legal Consulting",
+            "features": [
+                "Distinguished legal services",
+                "Specialized legal consultations",
+                "Legal studies",
+                "Auditing and review"
+            ]
+        }
+    },
+    "keywords": "legal services, criminal lawyer, corporate law, international arbitration, legal consultation, commercial lawyer, criminal cases"
+}

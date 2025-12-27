@@ -1,0 +1,36 @@
+{
+    "logo": {
+        "title": "العدالة",
+        "subtitle": "للمحاماة"
+    },
+    "links": [
+        {
+            "id": "home",
+            "label": "الرئيسية",
+            "href": "#home"
+        },
+        {
+            "id": "about",
+            "label": "من نحن",
+            "href": "#about"
+        },
+        {
+            "id": "services",
+            "label": "خدماتنا",
+            "href": "#services"
+        },
+        {
+            "id": "team",
+            "label": "فريق العمل",
+            "href": "#team"
+        },
+        {
+            "id": "contact",
+            "label": "اتصل بنا",
+            "href": "#contact"
+        }
+    ],
+    "cta": "حجز استشارة",
+    "menu": "القائمة",
+    "keywords": "مكتب محاماة، محامي، استشارات قانونية، خدمات قانونية"
+}

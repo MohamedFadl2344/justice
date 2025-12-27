@@ -1,0 +1,28 @@
+{
+    "badge": "Pourquoi Choisir Notre Cabinet",
+    "title": {
+        "main": "Engagement envers la Fiabilité",
+        "highlight": "et Résultats Garantis"
+    },
+    "description": "Nous croyons que chaque cas comporte des dimensions uniques, c'est pourquoi nous adhérons aux plus hauts standards de professionnalisme et de confidentialité pour garantir les droits de nos clients. Notre équipe se compose d'avocats spécialisés d'élite qui possèdent des connaissances académiques et une expérience pratique.",
+    "founder": {
+        "name": "Conseiller Ahmed Ali",
+        "title": "Expert en Droit International - 25 Ans d'Expérience",
+        "badge": "Fondateur"
+    },
+    "commitments": {
+        "expertise": {
+            "title": "Expertise de Confiance",
+            "description": "Un bilan éprouvé de succès dans les cas locaux et internationaux les plus complexes avec un taux de réussite qui parle de lui-même"
+        },
+        "support": {
+            "title": "Support Continu",
+            "description": "Notre équipe est disponible pour vous 24h/24 et 7j/7 pour des consultations et pour suivre vos cas avec précision afin d'assurer votre tranquillité d'esprit"
+        },
+        "results": {
+            "title": "Résultats Tangibles",
+            "description": "Nous nous concentrons sur des stratégies juridiques efficaces pour obtenir les meilleurs résultats possibles pour nos clients dans les plus brefs délais"
+        }
+    },
+    "keywords": "cabinet d'avocats de confiance, avocat expert, consultations juridiques spécialisées, services juridiques professionnels, résultats juridiques garantis"
+}

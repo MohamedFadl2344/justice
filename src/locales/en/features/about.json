@@ -1,0 +1,28 @@
+{
+    "badge": "Why Choose Our Firm",
+    "title": {
+        "main": "Commitment to Reliability",
+        "highlight": "and Guaranteed Results"
+    },
+    "description": "We believe that every case carries unique dimensions, and therefore we adhere to the highest standards of professionalism and confidentiality to ensure our clients' rights. Our team consists of elite specialized lawyers who possess academic knowledge and practical experience.",
+    "founder": {
+        "name": "Consultant Ahmed Ali",
+        "title": "International Law Expert - 25 Years Experience",
+        "badge": "Founder"
+    },
+    "commitments": {
+        "expertise": {
+            "title": "Trusted Expertise",
+            "description": "A proven track record of success in the most complex local and international cases with a success rate that speaks for itself"
+        },
+        "support": {
+            "title": "Continuous Support",
+            "description": "Our team is available to you 24/7 for consultations and to follow up on your cases with precision to ensure your peace of mind"
+        },
+        "results": {
+            "title": "Tangible Results",
+            "description": "We focus on effective legal strategies to achieve the best possible results for our clients in the shortest time"
+        }
+    },
+    "keywords": "trusted law firm, expert lawyer, specialized legal consultations, professional legal services, guaranteed legal results"
+}

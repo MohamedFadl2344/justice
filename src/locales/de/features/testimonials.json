@@ -1,0 +1,46 @@
+{
+    "badge": "Kundenbewertungen",
+    "title": {
+        "main": "Was unsere",
+        "highlight": "Kunden sagen"
+    },
+    "subtitle": "Wir sind stolz auf das Vertrauen unserer Kunden und bemühen uns stets, ihre Erwartungen durch außergewöhnliche Rechtsdienstleistungen zu übertreffen",
+    "items": [
+        {
+            "name": "Mohammed Salem",
+            "role": "Zivilpräsident",
+            "content": "Ausgezeichneter Service und sehr hohe Qualität. Das Team der Al-Adala-Kanzlei konnte meinen Fall in Rekordzeit mit greifbaren Ergebnissen lösen. Ich empfehle sie jedem, der einen zuverlässigen Anwalt sucht.",
+            "rating": 5
+        },
+        {
+            "name": "Sarah Al-Masri",
+            "role": "Geschäftsführerin",
+            "content": "Ihre Expertise im internationalen Recht ist unübertroffen. Ich habe mit ihnen an einem komplexen Investitionsfall gearbeitet und sie waren äußerst professionell. Ein außergewöhnliches Team in allen Rechtsbereichen, die sie anbieten.",
+            "rating": 5
+        },
+        {
+            "name": "Khaled Youssef",
+            "role": "Geschäftsmann",
+            "content": "Die beste Anwaltskanzlei, mit der ich je gearbeitet habe. Die Beratung und Betreuung von Anfang an waren ausgezeichnet. Das professionelle Team konnte das rechtliche Problem, mit dem ich konfrontiert war, leicht lösen. Vielen Dank für ihre Bemühungen.",
+            "rating": 5
+        },
+        {
+            "name": "Fatima Ahmed",
+            "role": "Geschäftsinhaberin",
+            "content": "Eine professionelle Anwaltskanzlei in jeder Hinsicht. Sie haben mir bei einem komplexen Immobilienfall geholfen und hervorragende Ergebnisse erzielt. Die Kommunikation war ausgezeichnet und die Betreuung kontinuierlich. Ich danke ihnen für ihre außergewöhnlichen Bemühungen.",
+            "rating": 5
+        },
+        {
+            "name": "Abdullah Al-Harbi",
+            "role": "Investor",
+            "content": "Außergewöhnlicher Rechtsservice und professionelles Team. Ich habe mit ihnen an mehreren Handelsfällen gearbeitet und die Ergebnisse waren immer zufriedenstellend. Ich empfehle sie jedem, der hochwertige Rechtsdienstleistungen sucht.",
+            "rating": 5
+        },
+        {
+            "name": "Noura Al-Otaibi",
+            "role": "Anwältin",
+            "content": "Hervorragende Erfahrung in der Zusammenarbeit mit der Al-Adala-Kanzlei. Die rechtliche Expertise und Professionalität sind in jeder Interaktion offensichtlich. Ein kooperatives Team, das innovative Rechtslösungen bietet. Freue mich auf die Zusammenarbeit mit ihnen.",
+            "rating": 5
+        }
+    ]
+}

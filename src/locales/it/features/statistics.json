@@ -1,0 +1,27 @@
+{
+    "badge": "I Nostri Successi in Numeri",
+    "title": {
+        "main": "Siamo Orgogliosi di",
+        "highlight": "Ciò Che Abbiamo Raggiunto"
+    },
+    "subtitle": "Numeri che riflettono il nostro impegno ed eccellenza",
+    "stats": {
+        "cases": {
+            "value": "500+",
+            "label": "Casi di Successo"
+        },
+        "clients": {
+            "value": "300+",
+            "label": "Clienti Soddisfatti"
+        },
+        "experience": {
+            "value": "25+",
+            "label": "Anni di Esperienza"
+        },
+        "awards": {
+            "value": "50+",
+            "label": "Premi e Riconoscimenti"
+        }
+    },
+    "keywords": "studio legale di successo, casi vinti, competenza legale"
+}

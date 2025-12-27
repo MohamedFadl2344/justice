@@ -1,0 +1,27 @@
+{
+    "badge": "Nos Réalisations en Chiffres",
+    "title": {
+        "main": "Nous Sommes Fiers de",
+        "highlight": "Ce Que Nous Avons Accompli"
+    },
+    "subtitle": "Des chiffres qui reflètent notre engagement et notre excellence dans la prestation de services juridiques",
+    "stats": {
+        "cases": {
+            "value": "500+",
+            "label": "Affaires Réussies"
+        },
+        "clients": {
+            "value": "300+",
+            "label": "Clients Satisfaits"
+        },
+        "experience": {
+            "value": "25+",
+            "label": "Années d'Expérience"
+        },
+        "awards": {
+            "value": "50+",
+            "label": "Prix et Honneurs"
+        }
+    },
+    "keywords": "cabinet d'avocats réussi, affaires gagnées, expertise juridique, avocat distingué"
+}

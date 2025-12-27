@@ -1,0 +1,48 @@
+{
+    "badge": "Umfassende Rechtsdienstleistungen",
+    "title": {
+        "main": "Umfassende",
+        "highlight": "Rechtsdienstleistungen"
+    },
+    "subtitle": "Wir bieten eine umfassende Palette spezialisierter Rechtsdienstleistungen",
+    "viewAll": "Alle Beratungen Anzeigen",
+    "items": {
+        "criminal": {
+            "title": "Strafsachen",
+            "features": [
+                "Verteidigung in Strafsachen",
+                "Vertretung vor Gerichten",
+                "Strafberatungen",
+                "Vorbereitung rechtlicher Schriftsätze"
+            ]
+        },
+        "corporate": {
+            "title": "Gesellschaftsrecht",
+            "features": [
+                "Gründung von Unternehmen",
+                "Erstellung von Handelsverträgen",
+                "Beilegung von Handelsstreitigkeiten",
+                "Rechtsberatungen"
+            ]
+        },
+        "arbitration": {
+            "title": "Internationale Schiedsgerichtsbarkeit",
+            "features": [
+                "Internationale Handelsschiedsgerichtsbarkeit",
+                "Vertretung der Parteien",
+                "Vollstreckung von Schiedssprüchen",
+                "Streitmediation"
+            ]
+        },
+        "consulting": {
+            "title": "Rechtsberatung",
+            "features": [
+                "Ausgezeichnete Rechtsdienstleistungen",
+                "Spezialisierte Rechtsberatungen",
+                "Rechtsstudien",
+                "Prüfung und Überprüfung"
+            ]
+        }
+    },
+    "keywords": "Rechtsdienstleistungen, Strafverteidiger, Gesellschaftsrecht, internationale Schiedsgerichtsbarkeit"
+}

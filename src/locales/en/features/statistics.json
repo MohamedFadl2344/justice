@@ -1,0 +1,27 @@
+{
+    "badge": "Our Achievements in Numbers",
+    "title": {
+        "main": "We're Proud of",
+        "highlight": "What We've Achieved"
+    },
+    "subtitle": "Numbers that reflect our commitment and excellence in providing legal services",
+    "stats": {
+        "cases": {
+            "value": "500+",
+            "label": "Successful Cases"
+        },
+        "clients": {
+            "value": "300+",
+            "label": "Satisfied Clients"
+        },
+        "experience": {
+            "value": "25+",
+            "label": "Years of Experience"
+        },
+        "awards": {
+            "value": "50+",
+            "label": "Awards & Honors"
+        }
+    },
+    "keywords": "successful law firm, winning cases, legal expertise, distinguished lawyer"
+}

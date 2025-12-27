@@ -1,0 +1,45 @@
+{
+    "about": {
+        "title": "Cabinet Justice",
+        "description": "Nous fournissons des services juridiques distingués avec une grande expertise et professionnalisme pour protéger vos droits et réaliser la justice. Nous nous engageons aux plus hauts standards de professionnalisme et de confidentialité totale dans le traitement de vos cas."
+    },
+    "quickLinks": {
+        "title": "Liens Rapides",
+        "links": [
+            {
+                "id": "home",
+                "label": "Accueil"
+            },
+            {
+                "id": "about",
+                "label": "À Propos"
+            },
+            {
+                "id": "services",
+                "label": "Nos Services"
+            },
+            {
+                "id": "contact",
+                "label": "Contactez-nous"
+            }
+        ]
+    },
+    "services": {
+        "title": "Services Juridiques",
+        "items": [
+            "Droit Pénal",
+            "Arbitrage International",
+            "Affaires Civiles",
+            "Consultations Juridiques"
+        ]
+    },
+    "social": {
+        "title": "Suivez-nous"
+    },
+    "bottom": {
+        "copyright": "Tous droits réservés au Cabinet Justice et Consultations Juridiques",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Termes et Conditions"
+    },
+    "keywords": "cabinet d'avocats, services juridiques, avocat spécialisé, consultations juridiques"
+}

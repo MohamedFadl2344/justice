@@ -1,0 +1,78 @@
+{
+    "badge": "Contact Us",
+    "title": "We're Here to Help You",
+    "form": {
+        "title": "Send Us a Message",
+        "subtitle": "Contact Us Now",
+        "fields": {
+            "firstName": {
+                "label": "First Name",
+                "placeholder": "Enter your first name"
+            },
+            "lastName": {
+                "label": "Last Name",
+                "placeholder": "Enter your last name"
+            },
+            "email": {
+                "label": "Email Address",
+                "placeholder": "example@domain.com"
+            },
+            "caseType": {
+                "label": "Case Type",
+                "placeholder": "Select case type"
+            },
+            "message": {
+                "label": "Message",
+                "placeholder": "Please provide brief details about your case..."
+            }
+        },
+        "caseTypes": [
+            {
+                "value": "",
+                "label": "Select case type"
+            },
+            {
+                "value": "general",
+                "label": "General Consultation"
+            },
+            {
+                "value": "criminal",
+                "label": "Criminal Cases"
+            },
+            {
+                "value": "civil",
+                "label": "Civil Cases"
+            },
+            {
+                "value": "commercial",
+                "label": "Commercial Cases"
+            },
+            {
+                "value": "family",
+                "label": "Family Cases"
+            },
+            {
+                "value": "labor",
+                "label": "Labor Cases"
+            }
+        ],
+        "submit": "Submit Request Now"
+    },
+    "info": {
+        "title": "Contact Us",
+        "description": "We are here to help you 24/7. Contact us for consultations and to identify your legal needs, or reach us through the following means, and we will be fully prepared to respond",
+        "address": {
+            "title": "Main Address",
+            "value": "Tahrir Street, Cairo, Egypt"
+        },
+        "phone": {
+            "title": "Contact Numbers",
+            "value": "+966 (123) 456-0000"
+        },
+        "email": {
+            "title": "Email Address",
+            "value": "info@justice-law.com"
+        }
+    },
+    "keywords": "contact us, legal consultation, law office location, office address, phone number"
+}

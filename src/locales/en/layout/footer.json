@@ -1,0 +1,45 @@
+{
+    "about": {
+        "title": "Justice Law Firm",
+        "description": "We provide distinguished legal services with high expertise and professionalism to protect your rights and achieve justice. We are committed to the highest standards of professionalism and complete confidentiality in handling your cases."
+    },
+    "quickLinks": {
+        "title": "Quick Links",
+        "links": [
+            {
+                "id": "home",
+                "label": "Home"
+            },
+            {
+                "id": "about",
+                "label": "About Us"
+            },
+            {
+                "id": "services",
+                "label": "Our Services"
+            },
+            {
+                "id": "contact",
+                "label": "Contact Us"
+            }
+        ]
+    },
+    "services": {
+        "title": "Legal Services",
+        "items": [
+            "Criminal Law",
+            "International Arbitration",
+            "Civil Cases",
+            "Legal Consultations"
+        ]
+    },
+    "social": {
+        "title": "Follow Us"
+    },
+    "bottom": {
+        "copyright": "All Rights Reserved for Justice Law Firm and Legal Consultations",
+        "privacy": "Privacy Policy",
+        "terms": "Terms and Conditions"
+    },
+    "keywords": "law firm, legal services, specialized lawyer, legal consultations"
+}

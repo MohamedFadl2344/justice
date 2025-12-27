@@ -1,0 +1,46 @@
+{
+    "badge": "Testimonianze dei Clienti",
+    "title": {
+        "main": "Cosa dicono",
+        "highlight": "i nostri clienti"
+    },
+    "subtitle": "Siamo orgogliosi della fiducia dei nostri clienti e ci sforziamo sempre di superare le loro aspettative fornendo servizi legali eccezionali",
+    "items": [
+        {
+            "name": "Mohammed Salem",
+            "role": "Presidente Civile",
+            "content": "Servizio eccellente e di altissima qualità. Il team dello studio Al-Adala è riuscito a risolvere il mio caso in tempi record con risultati tangibili. Li consiglio vivamente a chiunque cerchi un avvocato affidabile.",
+            "rating": 5
+        },
+        {
+            "name": "Sarah Al-Masri",
+            "role": "Direttrice d'Azienda",
+            "content": "La loro esperienza nel diritto internazionale è impareggiabile. Ho lavorato con loro su un caso di investimento complesso ed erano estremamente professionali. Un team eccezionale in tutti i settori legali che offrono.",
+            "rating": 5
+        },
+        {
+            "name": "Khaled Youssef",
+            "role": "Uomo d'Affari",
+            "content": "Il miglior studio legale con cui abbia mai lavorato. La consulenza e il follow-up dall'inizio sono stati eccellenti. Il team professionale è riuscito a risolvere facilmente il problema legale che stavo affrontando. Grazie per i loro sforzi.",
+            "rating": 5
+        },
+        {
+            "name": "Fatima Ahmed",
+            "role": "Proprietaria d'Azienda",
+            "content": "Uno studio legale professionale sotto ogni aspetto. Mi hanno aiutato in un caso immobiliare complesso e hanno ottenuto risultati eccellenti. La comunicazione era eccellente e il follow-up continuo. Li ringrazio per i loro sforzi eccezionali.",
+            "rating": 5
+        },
+        {
+            "name": "Abdullah Al-Harbi",
+            "role": "Investitore",
+            "content": "Servizio legale eccezionale e team professionale. Ho lavorato con loro su diversi casi commerciali e i risultati sono sempre stati soddisfacenti. Li consiglio a chiunque cerchi servizi legali di alta qualità.",
+            "rating": 5
+        },
+        {
+            "name": "Noura Al-Otaibi",
+            "role": "Avvocatessa",
+            "content": "Esperienza eccellente nella collaborazione con lo studio Al-Adala. L'esperienza legale e la professionalità sono evidenti in ogni interazione. Un team collaborativo che offre soluzioni legali innovative. Felice di lavorare con loro.",
+            "rating": 5
+        }
+    ]
+}

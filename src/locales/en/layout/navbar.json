@@ -1,0 +1,36 @@
+{
+    "logo": {
+        "title": "Justice",
+        "subtitle": "Law Firm"
+    },
+    "links": [
+        {
+            "id": "home",
+            "label": "Home",
+            "href": "#home"
+        },
+        {
+            "id": "about",
+            "label": "About Us",
+            "href": "#about"
+        },
+        {
+            "id": "services",
+            "label": "Our Services",
+            "href": "#services"
+        },
+        {
+            "id": "team",
+            "label": "Our Team",
+            "href": "#team"
+        },
+        {
+            "id": "contact",
+            "label": "Contact Us",
+            "href": "#contact"
+        }
+    ],
+    "cta": "Book Consultation",
+    "menu": "Menu",
+    "keywords": "law firm, lawyer, legal consultation, legal services"
+}

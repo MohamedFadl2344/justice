@@ -1,0 +1,48 @@
+{
+    "badge": "Servizi Legali Completi",
+    "title": {
+        "main": "Servizi Legali",
+        "highlight": "Completi"
+    },
+    "subtitle": "Offriamo una gamma completa di servizi legali specializzati",
+    "viewAll": "Visualizza Tutte le Consultazioni",
+    "items": {
+        "criminal": {
+            "title": "Casi Penali",
+            "features": [
+                "Difesa in casi penali",
+                "Rappresentanza in tribunale",
+                "Consultazioni penali",
+                "Preparazione di memorie legali"
+            ]
+        },
+        "corporate": {
+            "title": "Diritto Societario",
+            "features": [
+                "Costituzione di società",
+                "Redazione di contratti commerciali",
+                "Risoluzione di controversie commerciali",
+                "Consultazioni legali"
+            ]
+        },
+        "arbitration": {
+            "title": "Arbitrato Internazionale",
+            "features": [
+                "Arbitrato commerciale internazionale",
+                "Rappresentanza delle parti",
+                "Esecuzione di lodi arbitrali",
+                "Mediazione delle controversie"
+            ]
+        },
+        "consulting": {
+            "title": "Consulenza Legale",
+            "features": [
+                "Servizi legali distinti",
+                "Consultazioni legali specializzate",
+                "Studi legali",
+                "Audit e revisione"
+            ]
+        }
+    },
+    "keywords": "servizi legali, avvocato penalista, diritto societario, arbitrato internazionale"
+}

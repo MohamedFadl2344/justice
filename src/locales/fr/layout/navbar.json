@@ -1,0 +1,36 @@
+{
+    "logo": {
+        "title": "Justice",
+        "subtitle": "Cabinet d'Avocats"
+    },
+    "links": [
+        {
+            "id": "home",
+            "label": "Accueil",
+            "href": "#home"
+        },
+        {
+            "id": "about",
+            "label": "À Propos",
+            "href": "#about"
+        },
+        {
+            "id": "services",
+            "label": "Nos Services",
+            "href": "#services"
+        },
+        {
+            "id": "team",
+            "label": "Notre Équipe",
+            "href": "#team"
+        },
+        {
+            "id": "contact",
+            "label": "Contactez-nous",
+            "href": "#contact"
+        }
+    ],
+    "cta": "Réserver une Consultation",
+    "menu": "Menu",
+    "keywords": "cabinet d'avocats, avocat, consultation juridique, services juridiques"
+}

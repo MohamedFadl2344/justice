@@ -1,0 +1,27 @@
+{
+    "badge": "Unsere Erfolge in Zahlen",
+    "title": {
+        "main": "Wir sind stolz auf",
+        "highlight": "Was wir erreicht haben"
+    },
+    "subtitle": "Zahlen, die unser Engagement und unsere Exzellenz widerspiegeln",
+    "stats": {
+        "cases": {
+            "value": "500+",
+            "label": "Erfolgreiche Fälle"
+        },
+        "clients": {
+            "value": "300+",
+            "label": "Zufriedene Mandanten"
+        },
+        "experience": {
+            "value": "25+",
+            "label": "Jahre Erfahrung"
+        },
+        "awards": {
+            "value": "50+",
+            "label": "Auszeichnungen"
+        }
+    },
+    "keywords": "erfolgreiche Anwaltskanzlei, gewonnene Fälle, Rechtsexpertise"
+}

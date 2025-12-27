@@ -1,0 +1,45 @@
+{
+    "about": {
+        "title": "Anwaltskanzlei Justice",
+        "description": "Wir bieten herausragende Rechtsdienstleistungen mit hoher Expertise und Professionalität, um Ihre Rechte zu schützen und Gerechtigkeit zu erreichen. Wir verpflichten uns zu höchsten Standards der Professionalität und vollständigen Vertraulichkeit bei der Bearbeitung Ihrer Fälle."
+    },
+    "quickLinks": {
+        "title": "Schnelllinks",
+        "links": [
+            {
+                "id": "home",
+                "label": "Startseite"
+            },
+            {
+                "id": "about",
+                "label": "Über uns"
+            },
+            {
+                "id": "services",
+                "label": "Unsere Dienstleistungen"
+            },
+            {
+                "id": "contact",
+                "label": "Kontaktieren Sie uns"
+            }
+        ]
+    },
+    "services": {
+        "title": "Rechtsdienstleistungen",
+        "items": [
+            "Strafrecht",
+            "Internationale Schiedsgerichtsbarkeit",
+            "Zivilsachen",
+            "Rechtsberatungen"
+        ]
+    },
+    "social": {
+        "title": "Folgen Sie uns"
+    },
+    "bottom": {
+        "copyright": "Alle Rechte vorbehalten für Anwaltskanzlei Justice und Rechtsberatungen",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Geschäftsbedingungen"
+    },
+    "keywords": "Anwaltskanzlei, Rechtsdienstleistungen, spezialisierter Anwalt, Rechtsberatungen"
+}

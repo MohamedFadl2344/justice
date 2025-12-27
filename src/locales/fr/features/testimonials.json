@@ -1,0 +1,46 @@
+{
+    "badge": "Témoignages Clients",
+    "title": {
+        "main": "Ce que disent",
+        "highlight": "nos clients"
+    },
+    "subtitle": "Nous sommes fiers de la confiance de nos clients et nous nous efforçons toujours de dépasser leurs attentes en fournissant des services juridiques exceptionnels",
+    "items": [
+        {
+            "name": "Mohammed Salem",
+            "role": "Président Civil",
+            "content": "Service excellent et de très haute qualité. L'équipe du cabinet Al-Adala a pu résoudre mon affaire en un temps record avec des résultats tangibles. Je les recommande vivement à quiconque cherche un avocat fiable.",
+            "rating": 5
+        },
+        {
+            "name": "Sarah Al-Masri",
+            "role": "Directrice d'Entreprise",
+            "content": "Leur expertise en droit international est inégalée. J'ai travaillé avec eux sur une affaire d'investissement complexe et ils ont été extrêmement professionnels. Une équipe exceptionnelle dans tous les domaines juridiques qu'ils offrent.",
+            "rating": 5
+        },
+        {
+            "name": "Khaled Youssef",
+            "role": "Homme d'Affaires",
+            "content": "Le meilleur cabinet d'avocats avec lequel j'ai travaillé. La consultation et le suivi depuis le début ont été excellents. L'équipe professionnelle a pu résoudre facilement le problème juridique auquel j'étais confronté. Merci pour leurs efforts.",
+            "rating": 5
+        },
+        {
+            "name": "Fatima Ahmed",
+            "role": "Propriétaire d'Entreprise",
+            "content": "Un cabinet d'avocats professionnel à tous égards. Ils m'ont aidé dans une affaire immobilière complexe et ont obtenu d'excellents résultats. La communication était excellente et le suivi continu. Je les remercie pour leurs efforts exceptionnels.",
+            "rating": 5
+        },
+        {
+            "name": "Abdullah Al-Harbi",
+            "role": "Investisseur",
+            "content": "Service juridique exceptionnel et équipe professionnelle. J'ai travaillé avec eux sur plusieurs affaires commerciales et les résultats ont toujours été satisfaisants. Je les recommande à quiconque recherche des services juridiques de haute qualité.",
+            "rating": 5
+        },
+        {
+            "name": "Noura Al-Otaibi",
+            "role": "Avocate",
+            "content": "Excellente expérience de collaboration avec le cabinet Al-Adala. L'expertise juridique et le professionnalisme sont évidents dans chaque interaction. Une équipe coopérative qui offre des solutions juridiques innovantes. Heureuse de travailler avec eux.",
+            "rating": 5
+        }
+    ]
+}

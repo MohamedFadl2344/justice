@@ -1,0 +1,48 @@
+{
+    "badge": "Services Juridiques Complets",
+    "title": {
+        "main": "Services Juridiques",
+        "highlight": "Complets"
+    },
+    "subtitle": "Nous offrons une gamme complète de services juridiques spécialisés pour répondre à vos besoins juridiques avec les plus hauts standards de qualité et de professionnalisme",
+    "viewAll": "Voir Toutes les Consultations",
+    "items": {
+        "criminal": {
+            "title": "Affaires Criminelles",
+            "features": [
+                "Défense dans les affaires criminelles",
+                "Représentation devant les tribunaux",
+                "Consultations criminelles",
+                "Préparation de mémoires juridiques"
+            ]
+        },
+        "corporate": {
+            "title": "Droit des Sociétés",
+            "features": [
+                "Formation de sociétés et d'entreprises",
+                "Rédaction de contrats commerciaux",
+                "Résolution de litiges commerciaux",
+                "Consultations juridiques"
+            ]
+        },
+        "arbitration": {
+            "title": "Arbitrage International",
+            "features": [
+                "Arbitrage commercial international",
+                "Représentation des parties en arbitrage",
+                "Exécution des sentences arbitrales",
+                "Médiation des litiges"
+            ]
+        },
+        "consulting": {
+            "title": "Conseil Juridique",
+            "features": [
+                "Services juridiques distingués",
+                "Consultations juridiques spécialisées",
+                "Études juridiques",
+                "Audit et révision"
+            ]
+        }
+    },
+    "keywords": "services juridiques, avocat pénaliste, droit des sociétés, arbitrage international, consultation juridique"
+}

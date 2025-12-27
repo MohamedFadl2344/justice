@@ -1,0 +1,78 @@
+{
+    "badge": "Contattaci",
+    "title": "Siamo qui per aiutarti",
+    "form": {
+        "title": "Inviaci un messaggio",
+        "subtitle": "Contattaci ora",
+        "fields": {
+            "firstName": {
+                "label": "Nome",
+                "placeholder": "Inserisci il tuo nome"
+            },
+            "lastName": {
+                "label": "Cognome",
+                "placeholder": "Inserisci il tuo cognome"
+            },
+            "email": {
+                "label": "Indirizzo email",
+                "placeholder": "esempio@dominio.com"
+            },
+            "caseType": {
+                "label": "Tipo di caso",
+                "placeholder": "Seleziona il tipo di caso"
+            },
+            "message": {
+                "label": "Messaggio",
+                "placeholder": "Si prega di fornire brevi dettagli sul tuo caso..."
+            }
+        },
+        "caseTypes": [
+            {
+                "value": "",
+                "label": "Seleziona il tipo di caso"
+            },
+            {
+                "value": "general",
+                "label": "Consulenza generale"
+            },
+            {
+                "value": "criminal",
+                "label": "Casi penali"
+            },
+            {
+                "value": "civil",
+                "label": "Casi civili"
+            },
+            {
+                "value": "commercial",
+                "label": "Casi commerciali"
+            },
+            {
+                "value": "family",
+                "label": "Casi familiari"
+            },
+            {
+                "value": "labor",
+                "label": "Casi di lavoro"
+            }
+        ],
+        "submit": "Invia richiesta ora"
+    },
+    "info": {
+        "title": "Contattaci",
+        "description": "Siamo qui per aiutarti 24 ore su 24, 7 giorni su 7. Contattaci per consultazioni e per identificare le tue esigenze legali, o contattaci attraverso i seguenti mezzi, e saremo completamente pronti a rispondere",
+        "address": {
+            "title": "Indirizzo principale",
+            "value": "Via Tahrir, Il Cairo, Egitto"
+        },
+        "phone": {
+            "title": "Numeri di contatto",
+            "value": "+966 (123) 456-0000"
+        },
+        "email": {
+            "title": "Indirizzo email",
+            "value": "info@justice-law.com"
+        }
+    },
+    "keywords": "contattaci, consulenza legale, posizione dello studio legale, indirizzo dell'ufficio, numero di telefono"
+}

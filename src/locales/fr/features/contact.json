@@ -1,0 +1,78 @@
+{
+    "badge": "Contactez-nous",
+    "title": "Nous sommes là pour vous aider",
+    "form": {
+        "title": "Envoyez-nous un message",
+        "subtitle": "Contactez-nous maintenant",
+        "fields": {
+            "firstName": {
+                "label": "Prénom",
+                "placeholder": "Entrez votre prénom"
+            },
+            "lastName": {
+                "label": "Nom de famille",
+                "placeholder": "Entrez votre nom de famille"
+            },
+            "email": {
+                "label": "Adresse e-mail",
+                "placeholder": "exemple@domaine.com"
+            },
+            "caseType": {
+                "label": "Type de cas",
+                "placeholder": "Sélectionnez le type de cas"
+            },
+            "message": {
+                "label": "Message",
+                "placeholder": "Veuillez fournir de brefs détails sur votre cas..."
+            }
+        },
+        "caseTypes": [
+            {
+                "value": "",
+                "label": "Sélectionnez le type de cas"
+            },
+            {
+                "value": "general",
+                "label": "Consultation générale"
+            },
+            {
+                "value": "criminal",
+                "label": "Affaires criminelles"
+            },
+            {
+                "value": "civil",
+                "label": "Affaires civiles"
+            },
+            {
+                "value": "commercial",
+                "label": "Affaires commerciales"
+            },
+            {
+                "value": "family",
+                "label": "Affaires familiales"
+            },
+            {
+                "value": "labor",
+                "label": "Affaires du travail"
+            }
+        ],
+        "submit": "Soumettre la demande maintenant"
+    },
+    "info": {
+        "title": "Contactez-nous",
+        "description": "Nous sommes là pour vous aider 24h/24 et 7j/7. Contactez-nous pour des consultations et pour identifier vos besoins juridiques, ou contactez-nous par les moyens suivants, et nous serons entièrement prêts à répondre",
+        "address": {
+            "title": "Adresse principale",
+            "value": "Rue Tahrir, Le Caire, Égypte"
+        },
+        "phone": {
+            "title": "Numéros de contact",
+            "value": "+966 (123) 456-0000"
+        },
+        "email": {
+            "title": "Adresse e-mail",
+            "value": "info@justice-law.com"
+        }
+    },
+    "keywords": "contactez-nous, consultation juridique, emplacement du cabinet d'avocats, adresse du bureau, numéro de téléphone"
+}
