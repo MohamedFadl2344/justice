@@ -41,7 +41,7 @@ export const MobileSidebar = ({ isOpen, onClose }: MobileSidebarProps) => {
                         animate={{ x: 0 }}
                         exit={{ x: isRTL ? '100%' : '-100%' }}
                         transition={{ type: 'spring', damping: 25, stiffness: 200 }}
-                        className={`fixed top-0 ${isRTL ? 'right-0' : 'left-0'} h-full w-80 bg-white dark:bg-gray-900 shadow-2xl z-50 lg:hidden flex flex-col`}
+                        className={`fixed top-0 ${isRTL ? 'right-0' : 'left-0'} h-full w-80 bg-white shadow-2xl z-50 lg:hidden flex flex-col`}
                     >
                         {/* Header */}
                         <div className="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-800">
