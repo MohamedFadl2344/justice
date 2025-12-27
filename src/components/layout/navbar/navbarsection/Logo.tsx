@@ -10,10 +10,10 @@ export const Logo = () => {
                 <HiScale className="w-6 h-6 text-white" />
             </div>
             <div className="flex flex-col">
-                <span className="text-xl font-bold text-[#1a3a52] dark:text-white" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
+                <span className="text-xl font-bold text-[#1a3a52]" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
                     {t('logo.title')}
                 </span>
-                <span className="text-xs text-gray-500 dark:text-gray-400" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
+                <span className="text-xs text-gray-500" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
                     {t('logo.subtitle')}
                 </span>
             </div>

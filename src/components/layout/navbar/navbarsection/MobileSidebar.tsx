@@ -83,7 +83,7 @@ export const MobileSidebar = ({ isOpen, onClose }: MobileSidebarProps) => {
                                                 e.preventDefault();
                                                 handleLinkClick(link.href);
                                             }}
-                                            className={`block px-4 py-3 rounded-lg text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 hover:text-[#d4a574] transition-all duration-300 ${isRTL ? 'text-right' : 'text-left'
+                                            className={`block px-4 py-3 rounded-lg text-gray-700 hover:bg-gray-100 hover:text-[#d4a574] transition-all duration-300 ${isRTL ? 'text-right' : 'text-left'
                                                 }`}
                                             style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}
                                         >
@@ -95,7 +95,7 @@ export const MobileSidebar = ({ isOpen, onClose }: MobileSidebarProps) => {
                         </nav>
 
                         {/* CTA Button */}
-                        <div className="p-6 border-t border-gray-200 dark:border-gray-800">
+                        <div className="p-6 border-t border-gray-200">
                             <a
                                 href="#contact"
                                 onClick={(e) => {
