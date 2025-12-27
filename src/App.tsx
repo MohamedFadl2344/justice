@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useLanguageStore } from './i18n';
 import { Home } from './pages/Home';
+import { SimpleLoader } from './components/common/SimpleLoader';
 
 function App() {
   const { currentLanguage, translations } = useLanguageStore();
@@ -19,13 +20,9 @@ function App() {
     }
   }, [translations]);
 
-  // Show nothing while loading (invisible preloader)
+  // Show simple loader while translations load
   if (!isReady) {
-    return (
-      <div className="min-h-screen bg-white">
-        {/* Invisible preloader - just white screen */}
-      </div>
-    );
+    return <SimpleLoader />;
   }
 
   return <Home />;
