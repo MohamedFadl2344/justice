@@ -44,26 +44,26 @@ export const MobileSidebar = ({ isOpen, onClose }: MobileSidebarProps) => {
                         className={`fixed top-0 ${isRTL ? 'right-0' : 'left-0'} h-full w-80 bg-white shadow-2xl z-50 lg:hidden flex flex-col`}
                     >
                         {/* Header */}
-                        <div className="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-800">
+                        <div className="flex items-center justify-between p-6 border-b border-gray-200">
                             <div className="flex items-center gap-3">
-                                <div className="w-10 h-10 bg-[#1a3a52] dark:bg-[#d4a574] rounded-lg flex items-center justify-center">
+                                <div className="w-10 h-10 bg-[#1a3a52] rounded-lg flex items-center justify-center">
                                     <HiScale className="w-6 h-6 text-white" />
                                 </div>
                                 <div className={isRTL ? 'text-right' : 'text-left'}>
-                                    <h2 className="text-xl font-bold text-[#1a3a52] dark:text-white" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
-                                        Justice
+                                    <h2 className="text-xl font-bold text-[#1a3a52]" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
+                                        العدالة
                                     </h2>
-                                    <p className="text-xs text-gray-600 dark:text-gray-400" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
+                                    <p className="text-xs text-gray-600" style={{ fontFamily: 'Cairo, Tajawal, sans-serif' }}>
                                         {t('subtitle')}
                                     </p>
                                 </div>
                             </div>
                             <button
                                 onClick={onClose}
-                                className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors duration-300"
+                                className="p-2 rounded-lg hover:bg-gray-100 transition-colors duration-300"
                                 aria-label="Close menu"
                             >
-                                <HiX className="w-6 h-6 text-gray-700 dark:text-gray-300" />
+                                <HiX className="w-6 h-6 text-gray-700" />
                             </button>
                         </div>
 
