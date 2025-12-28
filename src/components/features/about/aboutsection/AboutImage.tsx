@@ -19,7 +19,8 @@ export const AboutImage = () => {
                     alt="Law office professional"
                     width="665"
                     height="879"
-                    loading="lazy"
+                    loading="eager"
+                    fetchPriority="high"
                     decoding="async"
                     className="w-full h-auto object-cover"
                     style={{ aspectRatio: '665 / 879' }}
