@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 export default defineConfig({
   plugins: [react(),
-    tailwindcss()
+  tailwindcss()
   ],
   resolve: {
     alias: {
@@ -22,5 +22,7 @@ export default defineConfig({
       },
     },
     chunkSizeWarningLimit: 1000,
+    minify: 'esbuild', // Faster and good enough
+    target: 'es2015',
   },
 })
