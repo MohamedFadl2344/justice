@@ -2,7 +2,7 @@
 
 > A modern, multilingual law office website providing professional legal services with seamless Arabic/English support and optimized performance.
 
-![Justice Law Office](./public/screenshot-justice/screenshot-justice.png)
+![Justice Law Office](./docs/screenshot-justice/screenshot-justice.png)
 
 ---
 
